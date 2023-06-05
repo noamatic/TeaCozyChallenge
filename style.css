@@ -53,7 +53,7 @@ body{
 
 .heropage{
     height: 700px;
-    background-image: url("../ProjectTeaCozy/img/img-mission-background.jpg");
+    background-image: url("./img/img-mission-background.jpg");
     display: flex;
     flex-direction: column;
     justify-content: center;
